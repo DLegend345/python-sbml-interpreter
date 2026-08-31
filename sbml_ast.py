@@ -1,6 +1,5 @@
 # CSE307
 # Deron Ghimire
-# 115604728
 
 env_stack = []
 function_table = {}
