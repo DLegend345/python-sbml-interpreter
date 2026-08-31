@@ -1,6 +1,5 @@
 # CSE307
 # Deron Ghimire
-# 115604728
 
 import sys
 import ply.lex as lex
