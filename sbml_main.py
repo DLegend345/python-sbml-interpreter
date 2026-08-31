@@ -1,6 +1,5 @@
 # CSE307
 # Deron Ghimire
-# 115604728
 
 import sys
 from sbml_parser import parser
